@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsifShaikDS
+- 👋 Hi, I’m Asif Shaik
 - 👀 I’m interested in developing applications 
 - 🌱 I’m currently persuing Data Science course
 - 📫 How to reach me : 
