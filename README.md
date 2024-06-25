@@ -2,7 +2,8 @@
 - 👀 I'm a Data Science Enthusiast and a Web Developer
 - 🌱 I am from Andhra Pradesh, India
 - 📫 How to reach me : 
-    -   email : asif.ds.2024@gmail.com
+    -   Email : asif.ds.2024@gmail.com
+    -   LinkedIN : https://www.linkedin.com/in/shaikasif24/
 
 
 ###
